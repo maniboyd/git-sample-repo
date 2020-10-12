@@ -1,4 +1,4 @@
-git status
+git status ----- Prints the status of the git repo 
 git init 
 git config --global user.name "Lets Code it "
 git config --global user.email letskodeit@gmail.com
