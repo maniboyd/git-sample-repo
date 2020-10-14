@@ -1,6 +1,6 @@
 git status ----- Prints the status of the git repo 
 git init ---- Initializes the git repository
-git config --global user.name "Lets Code it "  ---- To set the config
+git config --global user.name "Lets Code it "  ---- specify the username
 git config --global user.email letskodeit@gmail.com
 git config user.name "Lets Kode it " 
 git config user.email Letskodeit@gmail.com 
