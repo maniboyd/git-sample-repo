@@ -7,3 +7,7 @@ git config user.email Letskodeit@gmail.com
 git add 
 git commit -m ""
 git log Git diff <filename>
+
+
+
+Irish cricket league starting soon 
